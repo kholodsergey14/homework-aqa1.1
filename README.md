@@ -1,0 +1,1 @@
+[! [Статус сборки] (https://ci.appveyor.com/api/projects/status/ffth89am1irwyiyu/branch/master?svg=true)] (https://ci.appveyor.com/project/kholodsergey14/homework -aqa1-1-vv50g / филиал / мастер)
